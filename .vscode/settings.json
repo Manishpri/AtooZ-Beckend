@@ -1,0 +1,9 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "companiesController",
+        "server"
+    ],
+    "vscode-janus-debug.uploadManually": [
+        "companiesRoutes"
+    ]
+}
